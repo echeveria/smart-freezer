@@ -1,0 +1,7 @@
+I buy chinese weighing scales model SF-400A.
+1. After start it need time to go to 0 data. 
+1.1 It needed display or something eles to see, when data is 0.
+1.2 Need start/restart button.
+2. If have a something else on a board before 0 data the weight data is wrong.
+2.1 The model needed 5-6 second for prepare himself for work.
+(if not display, sound seems like ok)
